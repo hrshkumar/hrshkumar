@@ -1,0 +1,4 @@
+alert udp any any -> any 53 DNS ALERT
+alert udp any 53 -> any any DNS ALERT
+alert udp any any -> any 1900 SSDP ALERT
+alert udp any 1900 -> any any SSDP ALERT
