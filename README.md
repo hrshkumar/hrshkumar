@@ -1,5 +1,3 @@
-![Harsh Kumar's Banner](https://your-image-link.com/banner.png)
-
 # Hi there! 👋 I'm Harsh Kumar
 
 ## 🚀 About Me
