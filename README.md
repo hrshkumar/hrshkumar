@@ -32,7 +32,7 @@ I'm a **DevOps Engineer** with experience in automation, CI/CD pipelines, contai
 - 🔐 Cybersecurity Awareness Program (UP Police)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrshkumar) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/hrshkumar) [![Email](https://img.shields.io/badge/Email-D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:rawatharsh2309@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshkumar2309/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/hrshkumar) [![Email](https://img.shields.io/badge/Email-D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:rawatharsh2309@gmail.com)
 
 ♟️ **I love playing chess!** You can challenge me on **[Chess.com](https://www.chess.com/member/HarshRawatGambit)**
 
