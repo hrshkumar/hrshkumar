@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Harsh Kumar
 
 ## 🚀 About Me
-I'm a **DevOps Engineer** with experience in automation, CI/CD pipelines, containerization, and cloud technologies. Passionate about bridging the gap between development and security, I'm currently exploring **DevSecOps** to integrate security practices into the software development lifecycle.
+I'm a **DevOps Engineer** with experience in automation, CI/CD pipelines, containerization, and cloud technologies. Passionate about optimizing software development workflows and ensuring smooth deployments.
 
 🌱 **Always Learning** | ⚡ **Problem Solver** | 🔐 **DevSecOps Enthusiast** | ♟️ **Chess Lover**
 
