@@ -27,7 +27,18 @@ I'm a **DevOps Engineer** with experience in automation, CI/CD pipelines, contai
 - 🔧 Jenkins Certification
 - 🖥️ Shell Scripting Certification
 - ☁️ Azure Fundamentals
-- 🔐 Cybersecurity Awareness Program (UP Police)
+- 🔐 Cybersecurity Awareness Program (UP Police
+
+## 📊 GitHub Stats
+
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrshkumar&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrshkumar&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hrshkumar&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=hrshkumar&label=Profile%20Views&color=brightgreen&style=flat)
+
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshkumar2309/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/hrshkumar) [![Email](https://img.shields.io/badge/Email-D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:rawatharsh2309@gmail.com)
