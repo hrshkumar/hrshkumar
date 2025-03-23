@@ -31,8 +31,6 @@ I'm a **DevOps Engineer** with experience in automation, CI/CD pipelines, contai
 
 ## 📊 GitHub Stats
 
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrshkumar&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrshkumar&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hrshkumar&theme=radical)
